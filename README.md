@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Belajar-Web
 
 ## Apa itu HTML?
@@ -13,3 +14,6 @@ Kesimpulan:
 HTML disebut HyperText Markup Language karena ia adalah sebuah bahasa yang menggunakan "tanda" (Markup) untuk menstrukturkan konten dan memungkinkan adanya tautan antar dokumen (HyperText), yang menjadi fondasi dari seluruh halaman web di dunia.
 
 
+=======
+# Belajar-Web
+>>>>>>> 45520184b61abf0a8e505cb6a61f2676d3ebbc40
